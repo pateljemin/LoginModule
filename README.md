@@ -1,9 +1,6 @@
 # LoginModule
 JWT based Authentication using Spring Boot.
 
-  # Minds-Medical Login Module
--	JWT based authentication for Minds-Medical.
-
 # Installation
 - Install JDK.
 - Install MongoDb and run mongod instance.
